@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         New Userscript - github POC test
 // @namespace    http://tampermonkey.net/
-// @version      2025-10-30
+// @version      2025-10-30.a
 // @description  try to take over the world!
 // @author       You
 // @match        https://*/*

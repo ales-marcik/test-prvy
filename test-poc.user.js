@@ -22,7 +22,11 @@ https://raw.githubusercontent.com/ales-marcik/test-prvy/main/test-poc.user.js
 => aj toto je kesovane
 
 https://raw.githubusercontent.com/ales-marcik/test-prvy/main/test-poc.user.js?omg=wtf123
-=> toto zas treba menit rucne :/
+=> toto zas treba menit rucne :/ (a aj s unikatnym parametrom sa zmeny neprejavia "hned")
+
+############################
+
+ALE... na nase CS ucely by to malo stacit
 
 */
 

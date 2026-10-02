@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         github POC test
-// @version      2026-10-01.a
+// @version      2026-10-01.b
 // @match        https://dummy
 // @homepageURL  https://github.com/ales-marcik/test-prvy/blob/main/test-poc.user.js
 // @downloadURL  https://github.com/ales-marcik/test-prvy/raw/refs/heads/main/test-poc.user.js
